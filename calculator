@@ -1,0 +1,9 @@
+print ("enter the first no ")
+a = input ()
+print ("enter the second no.")
+b = input ()
+print ("add two no " , int(a) +int ( b ))
+print ("subtraction two no " , int(a) -int ( b ))
+print ("multiply two no " , int(a) *int ( b ))
+print ("divide two no " , int(a) /int ( b ))
+ 
