@@ -1,0 +1,27 @@
+# string slicing and other functions
+# sring method 
+mystr ="my name is mohit"
+
+print (mystr[0:5])
+print (mystr[0:])
+
+print (mystr[::2])
+
+print (mystr.find("mohit"))
+print (mystr.lower ())
+print (mystr.upper())
+
+print (mystr.isalnum())  # alpha numeric is a no. in which no. and  space is not present 
+
+print (mystr.isalpha())  #alpha no. in which no space present 
+
+print (mystr.endswith("mohit"))
+
+print (mystr.count ("a"))
+
+print (mystr.capitalize())
+
+print (mystr.replace ("is" , "a"))
+ 
+ 
+ # visit python string on google 
